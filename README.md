@@ -34,7 +34,12 @@ This is a Flutter-based Weather App that retrieves real-time weather data using 
    - Open `weather_service.dart`
    - Replace `YOUR_API_KEY` with your actual API key
 
-4. Run the app:
+4. Enable location in you mobile(mandatory):
+
+   - Go to settings
+   - Turn on location
+
+5. Run the app:
    ```sh
    flutter run
    ```
